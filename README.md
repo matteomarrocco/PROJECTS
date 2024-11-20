@@ -6,8 +6,11 @@ I'm a passionate Master's student in Data Science for Decision Making at Maastri
 Python, R, SQL, SPARQL
 PowerBI, Tableau
 Machine learning with TensorFlow, scikit-learn
-Current Projects:
-Currently, I’m working on a project focused on monitoring regional health data to inform decision-making.
+
+**Current Projects:**
+
+Currently, I’m working on a project focused on monitoring regional health data.
+
 
 **Interests & Goals:**
 
