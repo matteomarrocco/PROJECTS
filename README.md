@@ -3,8 +3,11 @@ Hi, I'm Matteo Marrocco!
 I'm a passionate Master's student in Data Science for Decision Making at Maastricht University. I specialize in data science, statistical analysis, and machine learning, and I'm always eager to learn and experiment with new technologies.
 
 **Skills & Technologies:**
+
 Python, R, SQL, SPARQL
+
 PowerBI, Tableau
+
 Machine learning with TensorFlow, scikit-learn
 
 **Current Projects:**
