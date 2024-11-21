@@ -33,7 +33,7 @@
 
 ## 📬 **How to Reach Me**  
 📧 **Email:** [mattemarrocco@gmail.com](mailto:mattemarrocco@gmail.com)  
-💼 **LinkedIn:** [Connect with me here](www.linkedin.com/in/matteomarrocco)  
+💼 **LinkedIn:** [Connect with me here](https://www.linkedin.com/in/matteomarrocco)  
 
 ---
 
