@@ -27,6 +27,7 @@
 
 ### 🔍 **Regional Health Monitoring**
 **Sep 2024 - Feb 2025**
+
 Currently working on a **regional health monitoring project** to analyze and interpret public health data trends.  
 
 ### 🔬 **Predicting Characteristics of Polymers Using LLMs**  
