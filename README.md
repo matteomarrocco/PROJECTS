@@ -1,28 +1,41 @@
-Hi, I'm Matteo Marrocco!
 
-I'm a passionate Master's student in Data Science for Decision Making at Maastricht University. I specialize in data science, statistical analysis, and machine learning, and I'm always eager to learn and experiment with new technologies.
+# 👋 Hi, I'm **Matteo Marrocco**!  
 
-**Skills & Technologies:**
+🎓 A passionate **Master's student in Data Science for Decision Making** at Maastricht University.  
+💡 I thrive on solving real-world problems using **data science**, **statistical analysis**, and **machine learning**.  
+🚀 Always eager to learn, innovate, and explore new technologies.  
 
-Python, R, SQL, SPARQL
+---
 
-PowerBI, Tableau
+## 🛠️ **Skills & Technologies**  
 
-Machine learning with TensorFlow, scikit-learn
+**Programming & Querying:**  
+`Python` | `R` | `SQL` | `SPARQL`  
 
-**Current Projects:**
+**Data Visualization:**  
+`PowerBI` | `Tableau`  
 
-Currently, I’m working on a project focused on monitoring regional health data.
+**Machine Learning Frameworks:**  
+`TensorFlow` | `scikit-learn`  
 
+---
 
-**Interests & Goals:**
+## 📚 **Current Projects**  
+🔍 Working on a **regional health monitoring project** to analyze and interpret public health data trends.  
 
-I’m passionate about data science and AI, especially their applications in real-world problems, such as in sports and other domains. I’m looking to contribute to open-source projects and collaborate with developers and professionals from diverse backgrounds.
+---
 
-**How to Reach Me:**
+## 🌱 **Interests & Goals**  
+- 🔗 Applying **data science and AI** to solve impactful real-world problems, especially in **sports** and other fascinating domains.  
+- 🤝 Contributing to **open-source projects** and collaborating with talented developers worldwide.  
 
-Feel free to reach out via email at mattemarrocco@gmail.com or connect with me on LinkedIn.
+---
 
-**Fun Fact:**
+## 📬 **How to Reach Me**  
+📧 **Email:** [mattemarrocco@gmail.com](mailto:mattemarrocco@gmail.com)  
+💼 **LinkedIn:** [Connect with me here](www.linkedin.com/in/matteomarrocco)  
 
-When I’m not coding, I enjoy doing sports and playing the piano.
+---
+
+## 🎵 **Fun Fact**  
+When I’m not coding, you’ll find me **playing the piano 🎹** or enjoying a good workout in **sports ⚽**.  
