@@ -1,6 +1,6 @@
 ## Knowledge Graph Construction for Football Analysis
 
-This project focuses on applying **Knowledge Graph** (KG) technology to football analysis. The main objective was to develop a knowledge graph that captures relationships between **teams**, **matches**, **players**, and their **performance metrics**. The knowledge graph provides a structured framework to uncover detailed insights into player and team performance, including data for further analysis (e.g. tactical, strategic decisions, ...) .
+This project focuses on applying **Knowledge Graph** (KG) technology to football analysis. The main objective was to develop a knowledge graph that captures relationships between **teams**, **matches**, **players**, and their **performance metrics**. The knowledge graph provides a structured framework to uncover detailed insights into player and team performance, including data for further analysis (e.g. tactical, strategic decisions).
 
 ### Key Contributions:
 - **Data Collection & Verification**: Collected datasets for the 2022/2023 season from multiple sources, including match outcomes from *Football Data.co.uk* and player statistics from *FBref.com*. The data was cleaned and verified to ensure accuracy, with a focus on removing inconsistencies and addressing missing values.
