@@ -25,3 +25,6 @@ This project focuses on applying **Knowledge Graph** (KG) technology to football
 ### Further Research:
 The next steps for this project will involve **extracting embeddings** from the knowledge graph. These embeddings will encode the relationships and properties of entities (e.g., players, teams, matches) and integrated with **machine learning algorithms**. By combining embeddings with advanced predictive models, the project would aim to predict match outcomes, future performance trends,  and identify players likely to excel in different match scenarios.
 
+ 
+
+
